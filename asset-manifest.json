@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Angelo-Pikaso23/commercegithub.io.git/static/css/main.7912364d.css",
+    "main.js": "/Angelo-Pikaso23/commercegithub.io.git/static/js/main.ecc3b11b.js",
+    "static/js/453.0297a6b4.chunk.js": "/Angelo-Pikaso23/commercegithub.io.git/static/js/453.0297a6b4.chunk.js",
+    "index.html": "/Angelo-Pikaso23/commercegithub.io.git/index.html",
+    "main.7912364d.css.map": "/Angelo-Pikaso23/commercegithub.io.git/static/css/main.7912364d.css.map",
+    "main.ecc3b11b.js.map": "/Angelo-Pikaso23/commercegithub.io.git/static/js/main.ecc3b11b.js.map",
+    "453.0297a6b4.chunk.js.map": "/Angelo-Pikaso23/commercegithub.io.git/static/js/453.0297a6b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7912364d.css",
+    "static/js/main.ecc3b11b.js"
+  ]
+}
