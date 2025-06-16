@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Angelo-Pikaso23/commercegithub.io.git/static/css/main.7912364d.css",
-    "main.js": "/Angelo-Pikaso23/commercegithub.io.git/static/js/main.ecc3b11b.js",
-    "static/js/453.0297a6b4.chunk.js": "/Angelo-Pikaso23/commercegithub.io.git/static/js/453.0297a6b4.chunk.js",
-    "index.html": "/Angelo-Pikaso23/commercegithub.io.git/index.html",
-    "main.7912364d.css.map": "/Angelo-Pikaso23/commercegithub.io.git/static/css/main.7912364d.css.map",
-    "main.ecc3b11b.js.map": "/Angelo-Pikaso23/commercegithub.io.git/static/js/main.ecc3b11b.js.map",
-    "453.0297a6b4.chunk.js.map": "/Angelo-Pikaso23/commercegithub.io.git/static/js/453.0297a6b4.chunk.js.map"
+    "main.css": "/commercegithub.io/static/css/main.7912364d.css",
+    "main.js": "/commercegithub.io/static/js/main.b12d8942.js",
+    "static/js/453.0297a6b4.chunk.js": "/commercegithub.io/static/js/453.0297a6b4.chunk.js",
+    "index.html": "/commercegithub.io/index.html",
+    "main.7912364d.css.map": "/commercegithub.io/static/css/main.7912364d.css.map",
+    "main.b12d8942.js.map": "/commercegithub.io/static/js/main.b12d8942.js.map",
+    "453.0297a6b4.chunk.js.map": "/commercegithub.io/static/js/453.0297a6b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7912364d.css",
-    "static/js/main.ecc3b11b.js"
+    "static/js/main.b12d8942.js"
   ]
 }
